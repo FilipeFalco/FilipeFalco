@@ -1,6 +1,6 @@
 # <p align="center">What's up guys 🖖, I'm Filipe Falco</p>
 
-## <p align="center">Learning JavaScript / Node / React / Next.js</p> 
+### <p align="center">Learning JavaScript / Node / React / Next.js</p> 
 
 * Focus on always evolving and reaching next levels
 * I love helping people
