@@ -5,11 +5,9 @@
 <br/>
 <br/>
 
-* Focus on always evolving and reaching next levels
-* I love helping people
-* I am a FullStack Developer 👨‍💻
-
-💼 Working on [Imperial Cutelaria](https://www.imperialcutelaria.com.br/) 🔪
-<br/> 🤝 Looking for network
-<br/> 💬 About me: Like a Video Games (especially Overwatch), Animes, Series and Programming
-<br/> Contact to me: [falcoefilipe@hotmail.com](mailto:falcoefilipe@hotmail.com)
+* 🚀 Focus on always evolving and reaching next levels
+* 👨‍💻 I am a FullStack Developer 
+* 💼 Working on [Imperial Cutelaria](https://www.imperialcutelaria.com.br/) 🔪
+* 🤝 Looking for network
+* 💬 About me: Like a Video Games (especially Overwatch), Animes, Series and Programming
+* ✉️ Contact to me: [falcoefilipe@hotmail.com](mailto:falcoefilipe@hotmail.com)
