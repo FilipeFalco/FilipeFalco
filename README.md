@@ -1,8 +1,10 @@
 # <p align="center">What's up guys 🖖, I'm Filipe Falco</p>
 
 * Focus on always evolving and reaching next levels
-<br/>+ I love helping people
-<br/>* I am a FullStack Developer 👨‍💻
+<br/>
+* I love helping people
+<br/>
+* I am a FullStack Developer 👨‍💻
 
 💼 Working on [Imperial Cutelaria](https://www.imperialcutelaria.com.br/) 🔪
 <br/> 🤝 Looking for network
