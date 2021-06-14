@@ -11,4 +11,11 @@
 * 💬 About me: Like a Video Games (especially Overwatch), Animes, Series and Programming
 * ✉️ Contact to me: [falcoefilipe@hotmail.com](mailto:falcoefilipe@hotmail.com)
 
+<div>
+  <a href="https://github.com/filipefalco">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipefalco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefalco&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
 ![Snake animation](https://github.com/filipefalco/filipefalco/blob/output/github-contribution-grid-snake.svg)
