@@ -1,7 +1,7 @@
 # <p align="center">What's up guys 🖖, I'm Filipe Falco</p>
 
-### <p align="center">Working with Java</p> 
-### <p align="center">And learning JavaScript / Node / React / Next.js</p> 
+### <p align="center">Working with ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)</p> 
+### <p align="center">And learning ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) / ![NodeJS](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white) / ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB) / ![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)</p> 
 
 <br/>
 <br/>
