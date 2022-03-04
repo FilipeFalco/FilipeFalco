@@ -1,6 +1,7 @@
 # <p align="center">What's up guys 🖖, I'm Filipe Falco</p>
 
-### <p align="center">Learning JavaScript / Node / React / Next.js</p> 
+### <p align="center">Working with Java</p> 
+### <p align="center">And learning JavaScript / Node / React / Next.js</p> 
 
 <br/>
 <br/>
