@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Grupo Card<br>👯 I’m looking for network<br>🤝 I’m looking for help with Java and JavaScript<br>🌱 I’m currently learning Nest.js, prisma and SpringBoot<br>💬 Ask me about<br>⚡ Like a Video Games (especially Overwatch), Animes, Series and Programming 
+🔭 I’m currently working on Grupo Card<br>👯 I’m looking for network<br>🤝 I’m looking for help with Java and JavaScript<br>🌱 I’m currently learning Nest.js, prisma and SpringBoot<br>💬 Ask me about Software Engineering<br>⚡ Like a Video Games (especially Overwatch), Animes, Series and Programming 
 
 
 ## 🌐 Socials:
